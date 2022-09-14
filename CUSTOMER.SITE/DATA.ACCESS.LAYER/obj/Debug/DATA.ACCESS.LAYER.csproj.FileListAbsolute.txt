@@ -1,0 +1,6 @@
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\DATA.ACCESS.LAYER\bin\Debug\DATA.ACCESS.LAYER.dll
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\DATA.ACCESS.LAYER\bin\Debug\DATA.ACCESS.LAYER.pdb
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\DATA.ACCESS.LAYER\obj\Debug\DATA.ACCESS.LAYER.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\DATA.ACCESS.LAYER\obj\Debug\DATA.ACCESS.LAYER.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\DATA.ACCESS.LAYER\obj\Debug\DATA.ACCESS.LAYER.dll
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\DATA.ACCESS.LAYER\obj\Debug\DATA.ACCESS.LAYER.pdb

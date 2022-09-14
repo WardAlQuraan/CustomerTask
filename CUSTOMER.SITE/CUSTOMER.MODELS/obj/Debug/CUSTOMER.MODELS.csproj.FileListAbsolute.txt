@@ -1,0 +1,6 @@
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\CUSTOMER.MODELS\bin\Debug\CUSTOMER.MODELS.dll
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\CUSTOMER.MODELS\bin\Debug\CUSTOMER.MODELS.pdb
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\CUSTOMER.MODELS\obj\Debug\CUSTOMER.MODELS.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\CUSTOMER.MODELS\obj\Debug\CUSTOMER.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\CUSTOMER.MODELS\obj\Debug\CUSTOMER.MODELS.dll
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\CUSTOMER.MODELS\obj\Debug\CUSTOMER.MODELS.pdb

@@ -1,0 +1,6 @@
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\CUSTOMER.DTO\bin\Debug\CUSTOMER.DTO.dll
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\CUSTOMER.DTO\bin\Debug\CUSTOMER.DTO.pdb
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\CUSTOMER.DTO\obj\Debug\CUSTOMER.DTO.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\CUSTOMER.DTO\obj\Debug\CUSTOMER.DTO.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\CUSTOMER.DTO\obj\Debug\CUSTOMER.DTO.dll
+C:\Users\MSI\Desktop\Financial Task\CUSTOMER.BACKEND\CUSTOMER.DTO\obj\Debug\CUSTOMER.DTO.pdb

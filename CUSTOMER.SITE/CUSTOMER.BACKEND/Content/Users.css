@@ -1,0 +1,149 @@
+﻿body, html {
+    background-color: #f1f3f6; margin: 0 ;padding: 0 ;font-family: sans-serif
+}
+#header {
+    background-color: #074774;
+    overflow: hidden;
+}
+
+.navbar {
+    padding: 15px 0;
+}
+
+.navbar-brand {
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+h2.logo {
+    font-size: 28px;
+    font-weight: 400;
+    color: #fff;
+}
+
+    h2.logo strong {
+        font-size: 35px;
+        color: #EDF828;
+        font-weight: 600;
+    }
+
+h2.center-logo {
+    margin: 0 25px;
+}
+
+#navbarSupportedContent {
+    justify-content: center;
+}
+
+ul.navbar-nav {
+}
+
+    ul.navbar-nav li.nav-item {
+        margin-right: 25px;
+    }
+
+        ul.navbar-nav li.nav-item:last-child {
+            margin-right: 0;
+        }
+
+        ul.navbar-nav li.nav-item a.nav-link {
+            color: #fff;
+        }
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show > .nav-link {
+    color: #EDF828;
+}
+
+ul.navbar-nav li.nav-item a.nav-link:hover {
+    color: #EDF828;
+}
+
+.main {
+    display: flex ;justify-content: center ;align-items: center;margin-top:50px
+}
+
+.card {
+    background-color: #fff ;
+    box-shadow: 0 0 24px rgba(0,0,0,0.1) ;
+    width: 320px ;
+    border-radius: 8px ;
+    overflow: hidden;
+    margin:10px
+}
+.card-header{
+    display:flex;
+    justify-content:center;
+}
+.card-footer {
+    background: linear-gradient(90deg, #CC2B5E 0%, #753A88 100%);
+    text-align:center;
+}}
+
+ul {
+    display: flex ;
+    align-items: center ;
+    justify-content: space-around ;
+    padding: 20px ;margin: 0
+}
+
+li {
+    list-style-type: none
+}
+i {
+    color: #fff ;font-size: 20px
+}
+
+a {
+    text-decoration: none
+}
+.card-link {
+    padding-bottom: 30px
+}
+ul {
+    display: flex ;align-items: center ;justify-content: space-around ;padding: 0 20px ;margin: 0
+}
+
+li {
+    list-style-type: none
+}
+i {
+    width: 34px;
+    height: 34px;
+    background: linear-gradient(90deg, #CC2B5E 0%, #753A88 100%);
+    display: grid;
+    place-content: center;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 20px
+}
+
+a {
+    text-decoration: none;
+}
+
+.card-details {
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 24px;
+}
+.card-thumb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    background: linear-gradient(90deg, #CC2B5E 0%, #753A88 100%);
+}
+
+img {
+    margin: 0 auto;
+    max-width: 100px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: -50px;
+}

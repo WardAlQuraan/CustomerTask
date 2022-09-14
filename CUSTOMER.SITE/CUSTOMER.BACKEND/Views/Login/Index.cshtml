@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+<script src="~/Scripts/LoginScripts/checkUser.js" type="text/javascript">
+    
+</script>
+<div class="bg-image-container">
+    <div class="login-container">
+        <h3>Welcome</h3>
+        <!-- form -->
+        <form>
+            <div class="input-group">
+                <label for="username">Username</label>
+                <input type="text" name="username" id="username" required>
+            </div>
+            <div class="input-group">
+                <label for="password">Password</label>
+                <input type="password" name="password" id="password" required>
+            </div>
+            <div class="info" id="info"></div>
+            <button type="button" class="login-button" id="submitBtn">Sign In</button>
+            <a href="SignUp" >Register Now</a>
+        </form>
+    </div>
+</div>
