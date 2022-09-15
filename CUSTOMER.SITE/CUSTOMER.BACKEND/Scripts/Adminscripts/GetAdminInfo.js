@@ -1,9 +1,5 @@
 ﻿$(document).ready(function () {
 
-    if (sessionStorage.getItem("authToken") == null || sessionStorage.getItem("authToken").length == 0) {
-        window.location.href = "../Home/Index";
-    }
-    else {
         var decodedToken = parseJwt(sessionStorage.getItem("authToken"));
         if (decodedToken.role != "Admin") {
             window.location.href = "../Home/Index";
@@ -28,23 +24,4 @@
 
             }
         });
-
-        $("#logout").click(function () {
-            sessionStorage.clear();
-            window.location.href = "../Home/Index";
-        });
-    }
-
-
-
 });
-
-function parseJwt(token) {
-    var base64Url = token.split('.')[1];
-    var base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
-    var jsonPayload = decodeURIComponent(atob(base64).split('').map(function (c) {
-        return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
-    }).join(''));
-
-    return JSON.parse(jsonPayload);
-};

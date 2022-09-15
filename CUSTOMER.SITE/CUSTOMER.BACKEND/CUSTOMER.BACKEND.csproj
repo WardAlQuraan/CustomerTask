@@ -292,6 +292,7 @@
     <Content Include="Scripts\Adminscripts\GetAdminInfo.js" />
     <Content Include="Scripts\Adminscripts\GetAllAdmins.js" />
     <Content Include="Scripts\Adminscripts\GetAllClients.js" />
+    <Content Include="Scripts\Adminscripts\navigatorWhenTokenInvalid.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
@@ -319,7 +320,9 @@
     <Content Include="Scripts\jquery-3.4.1.slim.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
     <None Include="Scripts\LoginScripts\checkUser.js" />
-    <Content Include="Scripts\LoginScripts\registerUser.js" />
+    <Content Include="Scripts\LoginScripts\userRegister.js" />
+    <Content Include="Scripts\Shared\jwtParse.js" />
+    <Content Include="Scripts\Shared\logout.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Scripts\UsersScripts\GetClientById.js" />
     <Content Include="Web.config" />

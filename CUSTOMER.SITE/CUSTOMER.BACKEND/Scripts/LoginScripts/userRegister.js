@@ -7,7 +7,7 @@
         var password = $("#password").val();
         var confirmPassword = $("#confirmPassword").val();
 
-        if (userName.length == 0 || firstname.length == 0 || lastname.length == 0 || password.length == 0 || confirmPassword.length==0) {
+        if (userName.length == 0 || firstname.length == 0 || lastname.length == 0 || password.length == 0 || confirmPassword.length == 0) {
             alert("Please fill all data");
         }
         else if (password.lastIndexOf < 6) {
@@ -29,7 +29,7 @@
                 dataType: "json",
                 success: function (data) {
                     alert("you are registered successfully");
-                    window.location.href = "Login";
+                    window.location.href = "Index";
                 },
                 error: function (error) {
                     alert(error.responseJSON.Message);
